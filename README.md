@@ -19,4 +19,4 @@ LLM-driven multimodal semantic graph learning framework for gut microbiome metag
 2. Run testing script for dsDNA/ssDNA or Screen–Review evaluation.
 
 ## Citation
-If you use this code, please cite our paper (to be updated).
+If you use this code, please cite our paper.
